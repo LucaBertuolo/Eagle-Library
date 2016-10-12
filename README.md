@@ -1,2 +1,25 @@
-# Eagle-Library
-# Eagle-Library
+# Eagle-Library:
+In this Eagle Library you can find some parts that i have used during my work
+# Components:
+- TPS73633
+- TLV62095
+- SIRA34DP
+- SA602A
+- NTTFS4821N
+- NJM78L05UA
+- NCP1117
+- MCP4728
+- MCP3424
+- MCP1415T-E
+- MAX4239
+- LTC4002
+- LMP7721
+- LAN9514
+- FDD6637
+- EC2-5.0NU
+- DMP6110
+- 15EDGRC-14X3.5
+- 15EDGRC-9X3.5
+- 15EDGRC-4X3.5
+- 15EDGRC-3X3.5
+- 15EDGRC-2X3.5
