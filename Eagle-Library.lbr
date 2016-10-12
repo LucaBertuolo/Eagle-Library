@@ -1227,17 +1227,6 @@ Source: www.ti.com .. tpa6132a2 direct path stereo $.65.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="CP3424">
-<gates>
-</gates>
-<devices>
-<device name="">
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
 <deviceset name="MCP3424">
 <gates>
 <gate name="G$1" symbol="MCP3424" x="0" y="0"/>
